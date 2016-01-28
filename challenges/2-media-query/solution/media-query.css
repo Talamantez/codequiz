@@ -1,0 +1,27 @@
+.mobile{
+    max-width: 100%;
+    min-height: 200px;
+    background: url(http://assets.stelladot.com/website-assets/NA/site/campaigns/Delicates/2016/cms/hp-mobile.jpg);
+    background-size: contain;
+    background-repeat: no-repeat;
+    display: block;
+  }
+.desktop{
+    max-width: 100%;
+    min-height: 200px; 
+    background: url(http://assets.stelladot.com/website-assets/NA/site/campaigns/Delicates/2016/cms/hp.jpg);
+    background-size: contain;
+    background-repeat: no-repeat;  
+    display: none;
+}
+.hero{
+  max-width: 800px;
+}
+@media (min-width: 500px){
+    .desktop{
+        display: block;
+    }
+    .mobile{
+        display: none;
+    }
+}

@@ -1,0 +1,16 @@
+div{
+  height: 50px;
+  min-width: 50px;
+}
+div.a{
+  background: #00FF00;
+}
+div.b{
+  background: #1234FF;
+}
+div.c{
+  background: #FbbF00;
+}
+div.d{
+  background: #FF3344;
+}
