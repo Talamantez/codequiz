@@ -1,33 +1,35 @@
 # codequiz
 
-### Center
+# Center
 	- Problem:
 	https://jsfiddle.net/2ppmyb2t/
 	- Solution:
 	https://jsfiddle.net/Lujjzt3g/
 
-#Bootstrap Layout
-
+# Bootstrap Layout
 	- Problem
 	https://jsfiddle.net/8ycqmxva/1/
 	- Solution
 	https://jsfiddle.net/ud8Lc5L3/
 
-#Media Query Problem
+# Media Query Problem
 	- Problem:
 	https://jsfiddle.net/p3g03ey6/
 	- Solution:
 	https://jsfiddle.net/h05y1483/
 
-#Responsive Image Problem
-	- Problem:
-	- Solution:
+# Responsive Image
+	- Prob
+	https://jsfiddle.net/ekzoLaat/1/
+	- Solution
+	https://jsfiddle.net/dkvoqm9z/1/
 
-#Font Family Problem
+# Typography Overlay
+	- Prob
+	https://jsfiddle.net/zo70kxL9/
+	- Solution
+	https://jsfiddle.net/h48obg4k/
 	
-#Font Size Problen
-	
-#Letter Spacing Problem
 
 # Ideas to quiz for:
 	image prep:
